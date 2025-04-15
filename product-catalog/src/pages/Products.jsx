@@ -40,7 +40,6 @@ export default function Products() {
 
     const handleDeleteProduct = (id) => {
         console.log("Delete Product with ID:", id);
-        // Implement delete logic here
     };
 
     return (
@@ -103,3 +102,4 @@ export default function Products() {
         </div>
     );
 }
+
